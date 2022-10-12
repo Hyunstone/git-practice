@@ -1,0 +1,7 @@
+total 4.0K
+-rw-r--r-- 1 hyun1 197609 78 Oct 13 00:55 README.MD.md
+-rw-r--r-- 1 hyun1 197609  0 Oct 13 01:09 file_list.txt
+-rw-r--r-- 1 hyun1 197609  0 Oct 13 00:44 hello_world
+-rw-r--r-- 1 hyun1 197609 21 Oct 13 00:42 myscript.sh
+-rw-r--r-- 1 hyun1 197609  9 Oct 13 01:05 new_words.txt
+-rw-r--r-- 1 hyun1 197609 21 Oct 13 00:42 test.sh
